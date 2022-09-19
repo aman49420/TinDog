@@ -1,0 +1,165 @@
+body {
+  font-family: "Montserrat";
+  font-weight: 600;
+}
+
+#title {
+  color: white;
+  background-color: #ff4c68;
+}
+
+.container-fluid {
+  padding: 7% 15%;
+}
+
+h1 {
+  font-weight: 900;
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+
+h2 {
+  font-family: "Montserrat";
+  font-weight: bold;
+  font-size: 2.5rem;
+}
+
+h3 {
+  text-align: center;
+  font-size: 1.5rem;
+  font-family: "Montserrat";
+  font-weight: bold;
+}
+
+p {
+  width: 50;
+  text-align: center;
+  color: #8f8f8f;
+  font-family: "Montserrat-Light";
+}
+
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.navbar-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat-Light";
+}
+
+/* Download Button */
+.Download-button {
+  margin: 7% 3% 5% 0;
+}
+
+/* Title-image */
+.Title-image {
+  width: 20%;
+  transform: rotate(25deg);
+  position: absolute;
+  left:60%;
+}
+
+/* Sections */
+
+.colored-section{
+  background-color: #ff4c68;
+}
+
+.white-section {
+  background-color: #fff;
+}
+
+/*Features Section*/
+#features {
+  padding: 7% 10%;
+  position: relative;
+  z-index: 1;
+}
+
+.feature-box {
+  text-align: center;
+  padding: 4.5%;
+}
+
+.logo {
+  margin: 1rem;
+  color: #ef8172;
+}
+
+.logo:hover {
+  color: #ff4c68;
+}
+
+/* testimonials */
+#testimonials {
+  background-color: #ef8172;
+  text-align: center;
+  color: #fff;
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
+
+.testimonial-image {
+  width: 10%;
+  border-radius: 100%;
+}
+
+#press {
+  background-color: #ef8172;
+  text-align: center;
+  padding-bottom: 3%
+}
+
+.press-logo {
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+
+/* Pricing */
+.card {
+  text-align: center;
+}
+
+#pricing {
+  text-align: center;
+  padding: 10% 15%;
+}
+
+/* CTA Section */
+
+#cta {
+  padding: 7% 15% 5%;
+  text-align: center;
+
+}
+
+#footer {
+  padding: 5% 2% 2%;
+  text-align: center;
+  background-color: #fff;
+}
+
+.footer-icons{
+  margin: 20px 10px;
+}
+
+.cta-text{
+  font-family: "Montserrat";
+  font-size: 3.5rem;
+  line-height: 1.5;
+  font-weight: bold;
+  color: #fff;
+}
